@@ -78,8 +78,8 @@
      <string name="category_type_other">Otros</string>
      <string name="category_video">Vídeos</string>
      <string name="category_zip">Archivos</string>
-     <string name="change_sticker">Choose another sticker</string>
-     <string name="choose_report_reason">Why are you reporting this video clip?</string>
+     <string name="change_sticker"Elegir otro sticker</string>
+     <string name="choose_report_reason">¿Por qué está reportando este video clip?</string>
      <string name="choose_send_type">Seleccione un método</string>
      <string name="choose_upload_location">Subir archivos a la carpeta KuaiPan</string>
      <string name="clean_hint">Tocar para liberar espacio</string>
@@ -87,7 +87,7 @@
      <string name="clean_title">Eliminar los archivos con más de 30 días de antigüedad.</string>
      <string name="clean_trash_box">Vaciar papelera</string>
      <string name="cleaning">Limpiando…</string>
-     <string name="click_to_switch_volume">Tap to switch between internal storage and SD card</string>
+     <string name="click_to_switch_volume">Tocar para cambiar entre almacenamiento interno y tarjeta SD</string>
      <string name="close">Cerrar</string>
      <string name="compress_fail">No se pudo comprimir. Ya existe un archivo con el mismo nombre.</string>
      <string name="compress_fail_unknown">No se pudo comprimir. Almacenamiento completo o error desconocido.</string>
@@ -123,7 +123,7 @@
      <string name="decompress_cancel">Cancelar</string>
      <string name="decompress_confirm">Extraer</string>
      <string name="decompress_destination_error">No se pueden extraer los archivos en esta ubicación</string>
-     <string name="decompress_encrypted_rar_not_supported">Los archivos encriptados rar no están soportados.</string>
+     <string name="decompress_encrypted_rar_not_supported">Los archivos rar comprimidos no están soportados.</string>
      <string name="decompress_fail">No se pudo extraer. Almacenamiento completo o error desconocido.</string>
      <string name="decompress_input_password">Introduce la contraseña…</string>
      <string name="decompress_password_error">La contraseña introducida es errónea.</string>
@@ -133,7 +133,7 @@
      <string name="decompress_to_here">Extraer aquí</string>
      <string name="decrypt">Quitar</string>
      <string name="decrypt_error">No se pudo desencriptar</string>
-     <string name="decrypt_to">Decrypt and save to…</string>
+     <string name="decrypt_to">Desencriptar y guardar como…</string>
      <string name="decrypting">Desencriptando…</string>
      <string name="delete_dialog_button">Eliminar</string>
      <string name="delete_error">Fallo al borrar archivos, trate de nuevo</string>
@@ -311,12 +311,12 @@ Nuestro servidor está caído. Por favor, inténtelo más tarde…
      <string name="menu_item_usb">USB</string>
      <string name="menu_list_name">Menú</string>
      <string name="mi_router_label">Mi Router</string>
-     <string name="midrop_msg_1">Turn on Mi Drop on the other device</string>
-     <string name="midrop_msg_2">When Mi Drop is on, you can search for devices nearby and send files</string>
-     <string name="midrop_send_files">Choose files to send</string>
+     <string name="midrop_msg_1">Activar Mi Drop en el otro dispositivo</string>
+     <string name="midrop_msg_2">Cuando Mi Drop está activado, puede buscar dispositivos cercanos y enviar ficheros</string>
+     <string name="midrop_send_files">Elegir ficheros para enviar</string>
      <string name="migrate_announcement_msg">Sincronizar tu cuenta de KuaiPan con tu cuenta Mi en la configuración de KuaiPan.</string>
      <string name="migrate_announcement_title">Traslado completado</string>
-     <string name="mobile_network_dialog_cancle">Cancel</string>
+     <string name="mobile_network_dialog_cancle">Cancelar</string>
      <string name="mobile_network_dialog_confirm">OK</string>
      <string name="mobile_network_dialog_tip">¿Usar tu conexión de datos móviles para acceder a esta página? Recibirá las tarifas de datos móviles regulares de su compañía.</string>
      <string name="mobile_network_dialog_tip2">Al ver videos online o transmitirlos de aplicarán costos extras por usar datos según el plan de datos que tengas.</string>
@@ -465,7 +465,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
      <string name="operation_resume_all">Reanudar todo</string>
      <string name="operation_save">Guardar</string>
      <string name="operation_send">Enviar</string>
-     <string name="operation_share">Share</string>
+     <string name="operation_share">Compartir</string>
      <string name="operation_show_sys">Mostrar archivos ocultos</string>
      <string name="operation_unfavorite">No favorito</string>
      <string name="operation_unlike">Unfavorite</string>
